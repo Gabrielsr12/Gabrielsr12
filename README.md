@@ -1,6 +1,6 @@
 ##
 
-- 👋 Hi, I’m Gabriel Ramos🧙🏼‍♂️
+- 👋 Hi, I’m Gabriel Souza Ramos🧙🏼‍♂️
 - 🌎 I’m live in Brazil 🇧🇷
 - 🌱 I’m currently learning Front-End 🔵
 
