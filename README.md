@@ -1,4 +1,4 @@
-<h1>About Me</h1>
+<h3>About Me</h3>
 
 
 
@@ -8,7 +8,7 @@
 
 ##
 
-<h1>Languages</h1>
+<h3>Languages</h3>
 
 
 
@@ -18,11 +18,12 @@
   <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gabriel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Gabriel-ReactNative" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
   
   ##
   
-  <h1>Social Links</h1>
+  <h3>Social Links</h3>
  
 <div> 
   <a href="https://www.linkedin.com/in/gabriel-souza-ramos-3a6419220" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
