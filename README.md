@@ -40,7 +40,8 @@
 <img align="right" alt="GIF" src="https://i.postimg.cc/BZ8VVRpZ/octocat-1671571608690.png" width="400px" />
 
 - 👾 Meus hobbies são: 
-  - Estudar sobre Web developer;
+  - Estudar sobre tecnologia;
+  - Ler quadrinhos;
   - Desenhar;
   - Jogar MMORPG; 
   - Ler livros;
