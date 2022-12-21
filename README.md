@@ -31,6 +31,7 @@
   <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gabriel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Gabriel-ReactNative" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Gabriel-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
   
   ##
@@ -39,6 +40,8 @@
 
 <img align="right" alt="GIF" src="https://i.postimg.cc/BZ8VVRpZ/octocat-1671571608690.png" width="400px" />
 
+  
+- 🎓 Formado em Tecnologia para a internet com foco em empreendedorismo digital pela FAETERJ.  
 - 👾 Meus hobbies são: 
   - Estudar sobre tecnologia;
   - Ler quadrinhos;
