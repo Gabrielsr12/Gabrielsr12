@@ -14,7 +14,7 @@
 <div/>
 <div align="left">
   <ul>
-  <li> 👋 Olá, Sou Gabriel Souza Ramos </li>
+  <li> 👋 Olá, Sou Gabriel Ramos </li>
   <li> 🌎 Eu moro no Brasil atualmente </li>
   <li> 🌱 Sou desenvolvedor Front-End </li>
   </ul>
